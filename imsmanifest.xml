@@ -1,0 +1,83 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<manifest identifier="_6RCMX5PnJ58" version="1.3" xmlns="http://www.imsglobal.org/xsd/imscp_v1p1" xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3" xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3" xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3" xmlns:imsss="http://www.imsglobal.org/xsd/imsss" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd">
+  <metadata>
+    <schema>ADL SCORM</schema>
+    <schemaversion>CAM 1.3</schemaversion>
+    <adlcp:location>metadata.xml</adlcp:location>
+  </metadata>
+  <organizations default="Progression_Case_Study_ORG">
+    <organization identifier="Progression_Case_Study_ORG" adlseq:objectivesGlobalToSystem="false">
+      <title>Progression Case Study</title>
+      <item identifier="Progression_Case_Study_SCO" identifierref="__6RCMX5PnJ58_RES" isvisible="true">
+        <title>Progression Case Study</title>
+      </item>
+      <metadata>
+        <adlcp:location>metadata.xml</adlcp:location>
+      </metadata>
+      <imsss:sequencing>
+        <imsss:controlMode choice="true" flow="true" />
+        <imsss:deliveryControls tracked="true" completionSetByContent="false" objectiveSetByContent="false" />
+      </imsss:sequencing>
+    </organization>
+  </organizations>
+  <resources>
+    <resource identifier="__6RCMX5PnJ58_RES" type="webcontent" adlcp:scormType="sco" href="index_lms.html">
+      <file href="story_content/thumbnail.jpg" />
+      <file href="mobile/5pMpB0hsjKf.png" />
+      <file href="mobile/6J6PcFSdat7_X.png" />
+      <file href="mobile/6J6PcFSdat7.png" />
+      <file href="mobile/6iP7KZul5dm.png" />
+      <file href="mobile/6kCtXAg8Gs2.png" />
+      <file href="mobile/5lu1k5OGibK.png" />
+      <file href="mobile/5ZPvSWnBYO7_P_1119_0_928_1152.jpg" />
+      <file href="story_content/6guqH91JKNr.js" />
+      <file href="story_content/5x1CfGP5NrB.js" />
+      <file href="story_content/5sfVfIAA7fL.js" />
+      <file href="mobile/6LOYkh357BG.png" />
+      <file href="mobile/5ZPvSWnBYO7_P_908_-3_1139_1152.jpg" />
+      <file href="story_content/5yf45YTEKMH.js" />
+      <file href="mobile/5lu1k5OGibK_P_4_0_1720_1885.png" />
+      <file href="meta.xml" />
+      <file href="story_content/user.js" />
+      <file href="mobile/Slide6c9JOTQ7363.jpg" />
+      <file href="mobile/Slide6D7it768O9a.jpg" />
+      <file href="mobile/Shape5jM8aVNcrqa.png" />
+      <file href="mobile/Shape6XJprY95t0i.png" />
+      <file href="mobile/Shape6XurWFiIRDT.png" />
+      <file href="mobile/Shape5Wb5zRuXyMd.png" />
+      <file href="mobile/Slide6hlsp0oCAbG.jpg" />
+      <file href="mobile/Slide5kY0f73iUnM.jpg" />
+      <file href="mobile/Slide5aLtgQDDj3T.jpg" />
+      <file href="html5/data/css/output.min.css" />
+      <file href="html5/data/js/5glMF0Ige3e.js" />
+      <file href="html5/data/js/6aAMmgn4lp4.js" />
+      <file href="html5/data/js/6FMUMxlqUgP.js" />
+      <file href="html5/data/js/6UHlXgTj5W6.js" />
+      <file href="html5/data/js/6VQixXjR15R.js" />
+      <file href="html5/data/js/data.js" />
+      <file href="html5/data/js/frame.js" />
+      <file href="html5/data/js/paths.js" />
+      <file href="html5/lib/scripts/bootstrapper.min.js" />
+      <file href="html5/lib/scripts/frame.desktop.min.js" />
+      <file href="html5/lib/scripts/frame.mobile.min.js" />
+      <file href="html5/lib/scripts/slides.min.js" />
+      <file href="html5/lib/stylesheets/desktop.min.css" />
+      <file href="html5/lib/stylesheets/mobile.min.css" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-bold.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-light.woff" />
+      <file href="html5/lib/stylesheets/mobile-fonts/open-sans-regular.woff" />
+      <file href="analytics-frame.html" />
+      <file href="story.html" />
+      <file href="index_lms.html" />
+      <file href="lms/AICCComm.html" />
+      <file href="lms/blank.html" />
+      <file href="lms/browsersniff.js" />
+      <file href="lms/goodbye.html" />
+      <file href="lms/scormdriver.js" />
+    </resource>
+  </resources>
+</manifest>
